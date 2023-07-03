@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calculadora de propinas</string>
+
+    <string name="total_amount_hint">Ingrese el monto total aquí</string>
+    <string name="tax_amount_hint">Por favor ingrese el monto del impuesto aquí</string>
+
+    <string name="tip_amount_default">$0.00</string>
+    <string name="grand_total_default">$0.00</string>
+    <string name="grand_total">Gran total</string>
+    <string name="tip_amount">Cantidad de propina</string>
+    <string name="calculate">Calcular</string>
+    <string name="clear">Clara</string>
+    <string name="_20">20%</string>
+    <string name="_10">10%</string>
+    <string name="_5">5%</string>
+    <string name="_0">0%</string>
+</resources>
